@@ -13,3 +13,11 @@
 
 4)  Push feature branch to remote.
 >   git push -u origin master   //  push feature to central repo (origin) and (-u) flag as remote tracking branch
+
+5)  Resolve Feedback
+>   Resolve comment locally, commit, and push the suggested changes.
+>   Updates will appear in the pull request.
+
+6) Merge Pull Request
+>   Resolve merge conflicts if others have made changes to the repo.
+>   If pull request is approved and conflict-free; merge the pull request.
