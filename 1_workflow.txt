@@ -12,4 +12,4 @@
 >   git commit -m "some comment"    //  commit the changes with a message
 
 4)  Push feature branch to remote.
->   git push -u origin master
+>   git push -u origin master   //  push feature to central repo (origin) and (-u) flag as remote tracking branch
