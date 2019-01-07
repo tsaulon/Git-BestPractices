@@ -1,0 +1,4 @@
+FINAL NOTES
+-----------
+
+1)  Commit Related Changes (e.g. Fixing 2 different bugs should produce 2 different commits)
