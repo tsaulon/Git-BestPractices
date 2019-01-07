@@ -2,3 +2,12 @@ FINAL NOTES
 -----------
 
 1)  Commit Related Changes (e.g. Fixing 2 different bugs should produce 2 different commits)
+2)  Commit Often    (e.g. Keep commits small and easier for team to follow and potential rollbacks)
+3)  DO NOT Commit Half-Done Work (tip: Look into git's 'stash' feature)
+4)  Test Before Committing (e.g. ensure 0 side-effects)
+5)  Write Good Commit Messages 
+    -   Use a short summary of up to 50 characters as a guideline and should answer questions like below:
+    >   What was the motivation for change?
+    >   How does it differe from previous implementation?
+    >   Use present tense (e.g. LIKE: change, NOT LIKE: changed or changes)
+    
