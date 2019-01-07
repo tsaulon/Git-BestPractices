@@ -1,0 +1,4 @@
+1) Actions after pull request approval
+>   ensure local master is synchronized with upstream master
+>   merge feature branch to master
+>   push the updated master to central repo
