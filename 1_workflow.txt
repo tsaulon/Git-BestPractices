@@ -3,10 +3,13 @@
 >   git fetch origin    //  pull latest commits 
 >   git reset --hard origin/master  //  reset repo's local copy to match latest version.
 
-2)  Create new branch
+2)  Create new branch.
 >   git checkout -b feature-name    //  checks out a branch based on master (-b creates new branch if already doesn't exist)
 
-3)  Update, Add, Commit, and Push Changes
+3)  Update, add, commit, and push changes.
 >   git status  //  query status of your current working git branch
 >   git add some-file.js    //  add the Changes
 >   git commit -m "some comment"    //  commit the changes with a message
+
+4)  Push feature branch to remote.
+>   git push -u origin master
